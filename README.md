@@ -4,8 +4,10 @@ Hi! I'm Todd Libby. I work for [Knowbility](https://knowbility.org) as an Access
 
 I am a member of the [W3C](https://www.w3.org/) and I am a member of the following groups and subgroups (subgroups denoted with an uppercase S)
     - Accessibility Conformance Testing (ACT) Task Force  
+    - Accessibility Features Community Group  
     - Accessibility Guidelines Working Group  
     - ACT Rules Community Group  
+    - ACT Task Force
     - CSS4 Community Group  
     - Inclusive Design for the Immersive Web Community Group  
     - Silver Community Group  
