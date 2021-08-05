@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/colabottles/image/upload/v1623022744/images/todd_lobster.jpg "Todd in a restaurant with two, two foot long lobster rolls on the table in front of him.")
+![A lobster on a plate on a table and some fries in a restaurant.](https://res.cloudinary.com/colabottles/image/upload/v1585002435/images/cookslobsterhouse_dbocrg.jpg)
 
 Hi! I'm Todd Libby. I work for [Knowbility](https://knowbility.org) as an Accessibility Analyst. I am also a Senior Front End Developer and Accessibility Advocate.
 
@@ -8,6 +8,7 @@ I am a member of the [W3C](https://www.w3.org/) and I am a member of the followi
     - Accessibility Guidelines Working Group  
     - ACT Rules Community Group  
     - ACT Task Force
+    - Low Vision Task Force
     - CSS4 Community Group  
     - Inclusive Design for the Immersive Web Community Group  
     - Silver Community Group  
