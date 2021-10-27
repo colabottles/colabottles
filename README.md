@@ -6,7 +6,7 @@ I am a member of the [W3C](https://www.w3.org/) and I am a member of the followi
     - Accessibility Conformance Testing (ACT) Task Force  
     - Accessibility Features Community Group  
     - Accessibility Guidelines Working Group  
-    - ACT Rules Community Group  
+    - ACT Rules Community Group
     - ACT Task Force
     - Low Vision Task Force
     - CSS4 Community Group  
