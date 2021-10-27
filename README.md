@@ -6,13 +6,13 @@ I am a member of the [W3C](https://www.w3.org/) and I am a member of the followi
     - Accessibility Conformance Testing (ACT) Task Force  
     - Accessibility Features Community Group  
     - Accessibility Guidelines Working Group  
-    - ACT Rules Community Group
-    - ACT Task Force
-    - Low Vision Task Force
+    - ACT Rules Community Group  
+    - ACT Task Force  
+    - Low Vision Task Force  
     - CSS4 Community Group  
     - Inclusive Design for the Immersive Web Community Group  
     - Silver Community Group  
-    - Silver Conformance - S   
+    - Silver Conformance - S  
     - Errors - S  
     - Functional Needs - S  
     - XR Subgroup - S  
