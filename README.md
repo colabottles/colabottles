@@ -1,6 +1,6 @@
 ![A lobster on a plate on a table and some fries in a restaurant.](https://res.cloudinary.com/colabottles/image/upload/v1585002435/images/cookslobsterhouse_dbocrg.jpg)
 
-Hi! I'm Todd Libby. I work for [Knowbility](https://knowbility.org) as an Accessibility Analyst. I am also a Senior Front End Developer and Accessibility Advocate.
+Hi! I'm Todd Libby. I work for [WebstaurantStore](https://webstaurantstore.com) as an Accessibility Engineer. I am also a Senior Front End Developer and Accessibility Advocate.
 
 I am a member of the [W3C](https://www.w3.org/) and I am a member of the following groups and subgroups _(subgroups denoted with an uppercase S)_
     - Accessibility Conformance Testing (ACT) Task Force  
