@@ -1,6 +1,6 @@
 ![A lobster on a plate on a table and some fries in a restaurant.](https://res.cloudinary.com/colabottles/image/upload/v1585002435/images/cookslobsterhouse_dbocrg.jpg)
 
-Hi! I'm Todd Libby. I wam a Senior Accessibility Engineer. I am also a Senior Front End Developer and Accessibility Advocate and an Invited Expert at the [W3C](https://www.w3.org/).
+Hi! I'm Todd Libby. I am a Senior Accessibility Engineer. I am also a Senior Front End Developer and Accessibility Advocate and an Invited Expert at the [W3C](https://www.w3.org/).
 
 I live in Phoenix, Arizona now, but I am originally from Portland, Maine 🦞 and love to eat lobster and lobster rolls, travel 🧳, workout 🏋🏻, walking/hiking 🎒⛰, and going to live concerts and music 🥁🎶🎸 among a variety of other things concerning food. 🌯🌮🌶🍱
 
