@@ -8,5 +8,5 @@ I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby), live stream
 
 ### Next Speaking Engagements
 
-- November 7-9 Connect.Tech, Atlanta, GA
 - November 15-18 Modern Frontends Live, London, ENG
+- January 10-13 CodeMash, Sandusky, OH
