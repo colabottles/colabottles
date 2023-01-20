@@ -8,6 +8,5 @@ I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby) but not much
 
 ### Next Speaking Engagements
 
-- January 10-13 CodeMash, Sandusky, OH
 - February 3 HalfStack Phoenix, Phoenix, AZ
 - April 4-6 Devnexus, Atlanta, GA
