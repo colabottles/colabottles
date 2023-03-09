@@ -8,5 +8,6 @@ I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby) but not much
 
 ### Next Speaking Engagements
 
-- February 3 HalfStack Phoenix, Phoenix, AZ
+- March 25 Orlando Code Camp, Orlando, FL
 - April 4-6 Devnexus, Atlanta, GA
+- June 21-23 KCDC, Kansas City, MO
