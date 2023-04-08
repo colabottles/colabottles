@@ -6,8 +6,6 @@ I live in Phoenix, Arizona now, but I am originally from Portland, Maine 🦞 an
 
 I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](https://twitter.com/lobstahtodd) and [on Mastodon](https://a11y.info/@todd), live streaming and learning over at 👾 [Twitch](https://twitch.tv/toddlibby) with lots of front end stuff. I also run the Front End Nerdery Podcast which you can find on your podcast device of choice, listen at [Front End Nerdery on Anchor](https://anchor.fm/frontendnerdery) and on the 📺 [Front End Nerdery Podcast YouTube channel](https://www.youtube.com/@FrontEndNerdery)
 
-### Next Speaking Engagements
+### Next Speaking
 
-- March 25 Orlando Code Camp, Orlando, FL
-- April 4-6 Devnexus, Atlanta, GA
 - June 21-23 KCDC, Kansas City, MO
