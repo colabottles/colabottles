@@ -8,5 +8,4 @@ I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby) and [@lobsta
 
 ### Next Speaking
 
-- June 21-23 KCDC, Kansas City, MO
 - October 17-18 MagnoliaJS, Jackson, MS
