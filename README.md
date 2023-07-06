@@ -9,4 +9,4 @@ I am on 🐦 Twitter at [@toddlibby](https://twitter.com/toddlibby) and [@lobsta
 ### Next Speaking
 
 - October 17-18 MagnoliaJS, Jackson, MS
-- October 24-26 ConnectTech, Atlanta, GA
+- October 24-26 ConnectTech, Atlanta, GA (Accessibility Workshop)
