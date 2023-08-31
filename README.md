@@ -8,6 +8,5 @@ I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](h
 
 ### Next Speaking
 
-- October 10-11 Ioniconf, Austin, TX
 - October 17-18 MagnoliaJS, Jackson, MS
 - October 24-26 ConnectTech, Atlanta, GA (Accessibility Workshop & talk)
