@@ -8,5 +8,6 @@ I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](h
 
 ### Next Speaking
 
-- October 17-18 MagnoliaJS, Jackson, MS
-- October 24-26 ConnectTech, Atlanta, GA (Accessibility Workshop & talk)
+- February 24, Orlando Code Camp - Orlando, FL
+- April 6, Desert Code Camp - Phoenix, AZ
+- April 9-12, Devnexus - Atlanta, GA
