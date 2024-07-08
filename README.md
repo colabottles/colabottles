@@ -8,4 +8,4 @@ I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](h
 
 ### Speaking
 
-- June 26-28 KCDC - Kansas City, MO
+- No speaking engagments upcoming
