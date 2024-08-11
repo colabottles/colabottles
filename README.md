@@ -7,8 +7,9 @@ I live in Phoenix, Arizona now, but I am originally from Portland, Maine 🦞 an
 I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](https://twitter.com/lobstahtodd) and I live stream gaming and learning over at 👾 [Twitch](https://twitch.tv/toddlibby). I also co-host the Front End Nerdery Podcast which you can find on your podcast device of choice, listen at [Front End Nerdery on Spotify Podcasts](https://podcasters.spotify.com/pod/show/frontendnerdery) and on the 📺 [Front End Nerdery Podcast YouTube channel](https://www.youtube.com/@FrontEndNerdery)
 
 ### Uses (these are some of the technologies I have used over the years or I am using currently:
+![HTML5](https://img.shields.io/badge/html5-%23E2E2E2?style=flat&logo=html5&logoColor=%23E2E2E2&logoSize=auto&labelColor=%23F22601&color=%23fffafa)
+![Cascading Style Sheets](https://img.shields.io/badge/css3-%23E2E2E2?style=flat&logo=css3&logoColor=%23E2E2E2&logoSize=auto&labelColor=%23149FDB&color=%23fffafa)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=%23F22601&logoSize=auto&label=html&labelColor=%23000000&color=%23fffafa)
 
 ### Speaking
 
