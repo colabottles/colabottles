@@ -6,6 +6,10 @@ I live in Phoenix, Arizona now, but I am originally from Portland, Maine 🦞 an
 
 I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](https://twitter.com/lobstahtodd) and I live stream gaming and learning over at 👾 [Twitch](https://twitch.tv/toddlibby). I also co-host the Front End Nerdery Podcast which you can find on your podcast device of choice, listen at [Front End Nerdery on Spotify Podcasts](https://podcasters.spotify.com/pod/show/frontendnerdery) and on the 📺 [Front End Nerdery Podcast YouTube channel](https://www.youtube.com/@FrontEndNerdery)
 
+### Uses (these are some of the technologies I have used over the years or I am using currently:
+
+![Static Badge](https://img.shields.io/badge/html?style=flat&logo=html5&logoColor=%23F22601&logoSize=auto&label=HTML5&labelColor=%23000000&color=%23fffafa)
+
 ### Speaking
 
 - No speaking engagments upcoming
