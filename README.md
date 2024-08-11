@@ -8,7 +8,7 @@ I am on 𝕏 at [@toddlibby](https://twitter.com/toddlibby) and [@lobstahtodd](h
 
 ### Uses (these are some of the technologies I have used over the years or I am using currently:
 
-![Static Badge](https://img.shields.io/badge/html?style=flat&logo=html5&logoColor=%23F22601&logoSize=auto&label=HTML5&labelColor=%23000000&color=%23fffafa)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=%23F22601&logoSize=auto&label=html&labelColor=%23000000&color=%23fffafa)
 
 ### Speaking
 
