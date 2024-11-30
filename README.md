@@ -1,4 +1,4 @@
-![A lobster on a plate on a table and some fries in a restaurant.](https://res.cloudinary.com/colabottles/image/upload/v1585002435/images/cookslobsterhouse_dbocrg.jpg)
+![A view of Lobster Cover near Baileys Island, Maine.](https://res.cloudinary.com/colabottles/image/upload/v1595298392/images/maine.jpg)
 
 Hi! I'm Todd. I am a Accessibility Advocate and an Invited Expert at the [W3C](https://www.w3.org/).
 
